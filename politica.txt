@@ -1,0 +1,17 @@
+Finalidad de la recogida de los datos personales:
+	No se recogen datos personales.
+Nombre y datos de contacto del responsable del tratamiento:
+	No se recogen datos personales ni se tratan.
+Legitimación para el tratamiento de esos datos:
+	No se recogen datos personales ni se tratan
+Destinatarios de los datos.
+	No se recogen datos personales ni se tratan
+Periodo de conservación de dichos datos.
+	No se recogen datos personales ni se tratan
+Informar a los interesados sobre el ejercicio de sus derechos (acceso, rectificación, supresión, limitación de tratamiento, portabilidad y oposición) y medio a través del cual pueden ejercerlos.
+Pedir consentimiento específico para cada uno de los datos personales a los que la app va a acceder.
+	Se utiliza el micrófono del dispositivo para transcribir el texto hablado. No se guarda ni el texto transcrito ni la voz. No se tratan datos personales.
+	Se pide consentimiento expreso en la app para acceder al micrófono.
+También hay que hacer referencia a los datos de menores y a servicios de geolocalización.
+	No hay datos de menores ni localización.
+
